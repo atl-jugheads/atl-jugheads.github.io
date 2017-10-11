@@ -10,19 +10,19 @@ Callisto M☾rns are local Atlanta conferences orbitting the Project Jupyter.  T
 - Journalism, law, and policy
 - Visualization, UI, and UX
 
+---
+
 ## In the works
 
 Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/1/).  
 
----
+### [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
-## Currently
-
-We have a [Call for Participation]().  We encourage anyone to submit their work as long as Project Jupyter plays a role.
+There is a call for a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform).  We encourage anyone to submit their work as long as Project Jupyter plays a role.
 
 ---
 
-Be ok the l👀k out for 🎟tickets🎟 in the new few weeks.
+Be on the l👀k out for 🎟tickets🎟 in the new few weeks.
 
 ---
 
