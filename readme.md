@@ -1,7 +1,7 @@
 
 # Callisto M☾rns
 
-Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  This event will host 40-50 Jupyter users from nearby the Atlanta Metro Area.  These events will attract designers, developers, and scientists solving problems in applications that include:
+Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  This extremely afforable event will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  These events will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -12,21 +12,21 @@ Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](ht
 
 ---
 
-## In the works
+## Submit a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
-Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/).  
-
-### [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
-
-There is a call for a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform).  We encourage anyone to submit their work as long as Project Jupyter plays a role.
+Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  There is a call for a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform).  We encourage anyone to submit their work as long as Project Jupyter plays a role.
 
 ---
 
 Be on the l👀k out for 🎟tickets🎟 in the new few weeks.
 
-## Join us on gitter
+## Staying in touch
 
 [![Gitter chat](https://badges.gitter.im/callisto-one/Lobby.png)](https://gitter.im/callisto-one/Lobby)
+
+* Visit the the [Castill☾ M☾rns](https://callisto-morns.github.io/) site for updates.
+* [Ask questions!](https://github.com/callisto-morns/one/issues)
+* [Submit a talk.](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
 ---
 
@@ -44,10 +44,10 @@ Project Jupyter is all about bringing today’s best open source software to any
     %reload_ext literacy
 ```
 
-    [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 3009 bytes to index.md
-    [NbConvertApp] Converting notebook faq.ipynb to markdown
-    [NbConvertApp] Writing 456 bytes to faq.md
+
+    !jupyter nbconvert --to markdown index.ipynb faq.ipynb
+    !cp index.md readme.md
+    %reload_ext literacy
 
 
 # Frequently Asked Questions
