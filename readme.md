@@ -24,6 +24,10 @@ There is a call for a [Call for Participation](https://docs.google.com/forms/d/e
 
 Be on the l👀k out for 🎟tickets🎟 in the new few weeks.
 
+## Join us on gitter
+
+[![Gitter chat](https://badges.gitter.im/callisto-one/Lobby.png)](https://gitter.im/callisto-one/Lobby)
+
 ---
 
 # Project Jupyter
@@ -40,14 +44,8 @@ Project Jupyter is all about bringing today’s best open source software to any
     %reload_ext literacy
 ```
 
-
-    !jupyter nbconvert --to markdown index.ipynb faq.ipynb
-    !cp index.md readme.md
-    %reload_ext literacy
-
-
     [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 2768 bytes to index.md
+    [NbConvertApp] Writing 3009 bytes to index.md
     [NbConvertApp] Converting notebook faq.ipynb to markdown
     [NbConvertApp] Writing 456 bytes to faq.md
 
