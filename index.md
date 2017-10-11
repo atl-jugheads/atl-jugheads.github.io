@@ -12,13 +12,13 @@ Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](ht
 
 ---
 
-## Submit a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
+## Submit a [Presentation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
-Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  There is a call for a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform).  We encourage anyone to submit their work as long as Project Jupyter plays a role.
+Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  We currently have a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform) out and encourage anyone to submit their work as long as Project Jupyter plays a role.
 
 ---
 
-Be on the l👀k out for 🎟tickets🎟 in the new few weeks.
+Be on the l👀k out for 🎟tickets🎟 in the next few weeks.
 
 ## Staying in touch
 
@@ -44,16 +44,16 @@ Project Jupyter is all about bringing today’s best open source software to any
     %reload_ext literacy
 ```
 
-    [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 3299 bytes to index.md
-    [NbConvertApp] Converting notebook faq.ipynb to markdown
-    [NbConvertApp] Writing 456 bytes to faq.md
-
-
 
     !jupyter nbconvert --to markdown index.ipynb faq.ipynb
     !cp index.md readme.md
     %reload_ext literacy
+
+
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 3518 bytes to index.md
+    [NbConvertApp] Converting notebook faq.ipynb to markdown
+    [NbConvertApp] Writing 458 bytes to faq.md
 
 
 # Frequently Asked Questions
