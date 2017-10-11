@@ -1,4 +1,5 @@
 *
 !.gitignore
+!faq.ipynb
 !index.ipynb
 !index.md

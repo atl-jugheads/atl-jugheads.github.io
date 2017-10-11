@@ -32,3 +32,5 @@ Be ok the l👀k out for 🎟tickets🎟 in the new few weeks.
 > > jupyter.org
 
 Project Jupyter is all about bringing today’s best open source software to anyone that needs to work with data. You can try the Notebook, Jupyter's web-based exploratory computing environment, today through free online services like SageMathCloud[1] and Binder[2].  Or, Jupyter can be easily installed[3] on your personal Linux, OSX or Windows computer. If you support many users, JupyterHub[4] can bring your compute resources and data to your users and groups with a powerful, familiar user experience.
+
+# Frequently Asked Questions
