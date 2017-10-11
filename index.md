@@ -1,7 +1,7 @@
 
 # Callisto M☾rns
 
-Callisto M☾rns are local Atlanta conferences orbitting the Project Jupyter.  This event will host 40-50 Jupyter users from nearby the Atlanta Metro Area.  These events will attract designers, developers, and scientists solving problems in applications that include:
+Callisto M☾rns are local Atlanta conferences orbitting the [Project Jupyter](http://jupyter.org/).  This event will host 40-50 Jupyter users from nearby the Atlanta Metro Area.  These events will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -14,7 +14,7 @@ Callisto M☾rns are local Atlanta conferences orbitting the Project Jupyter.  T
 
 ## In the works
 
-Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/1/).  
+Currently we are preparing for the [**premiere Callist☾ M☾rn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/).  
 
 ### [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
@@ -40,14 +40,8 @@ Project Jupyter is all about bringing today’s best open source software to any
     %reload_ext literacy
 ```
 
-
-    !jupyter nbconvert --to markdown index.ipynb faq.ipynb
-    !cp index.md readme.md
-    %reload_ext literacy
-
-
     [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 2803 bytes to index.md
+    [NbConvertApp] Writing 2854 bytes to index.md
     [NbConvertApp] Converting notebook faq.ipynb to markdown
     [NbConvertApp] Writing 456 bytes to faq.md
 
