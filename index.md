@@ -1,7 +1,7 @@
 
 # Callisto M☾rns
 
-Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  This extremely afforable event will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  These events will attract designers, developers, and scientists solving problems in applications that include:
+Callisto M☾rns are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -43,6 +43,12 @@ Project Jupyter is all about bringing today’s best open source software to any
     !cp index.md readme.md
     %reload_ext literacy
 ```
+
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 3299 bytes to index.md
+    [NbConvertApp] Converting notebook faq.ipynb to markdown
+    [NbConvertApp] Writing 456 bytes to faq.md
+
 
 
     !jupyter nbconvert --to markdown index.ipynb faq.ipynb
