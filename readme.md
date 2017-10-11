@@ -36,16 +36,18 @@ Project Jupyter is all about bringing today’s best open source software to any
 
 ```python
     !jupyter nbconvert --to markdown index.ipynb faq.ipynb
+    !cp index.md readme.md
     %reload_ext literacy
 ```
 
 
     !jupyter nbconvert --to markdown index.ipynb faq.ipynb
+    !cp index.md readme.md
     %reload_ext literacy
 
 
     [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 2690 bytes to index.md
+    [NbConvertApp] Writing 2803 bytes to index.md
     [NbConvertApp] Converting notebook faq.ipynb to markdown
     [NbConvertApp] Writing 456 bytes to faq.md
 
@@ -75,4 +77,4 @@ Callisto Day can show you a world of ways to explore and communicate the topics 
 ### Prior Events
 
 * [Jupyter Day Atlanta 2016](http://jupyterday-atlanta-2016.github.io)
-<style>code {display: none;}</style>
+<style>.highlighter-rouge, code {display: none;}</style>
