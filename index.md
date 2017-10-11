@@ -34,11 +34,28 @@ Be on the l👀k out for 🎟tickets🎟 in the new few weeks.
 Project Jupyter is all about bringing today’s best open source software to anyone that needs to work with data. You can try the Notebook, Jupyter's web-based exploratory computing environment, today through free online services like SageMathCloud[1] and Binder[2].  Or, Jupyter can be easily installed[3] on your personal Linux, OSX or Windows computer. If you support many users, JupyterHub[4] can bring your compute resources and data to your users and groups with a powerful, familiar user experience.
 
 
-    !jupyter nbconvert --to markdown --TemplateExporter.exclude_input=True index.ipynb faq.ipynb
+```python
+    !jupyter nbconvert --to markdown index.ipynb faq.ipynb
+    %reload_ext literacy
+```
+
+
+    !jupyter nbconvert --to markdown index.ipynb faq.ipynb
     %reload_ext literacy
 
 
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 5034 bytes to index.md
+    [NbConvertApp] Converting notebook faq.ipynb to markdown
+    [NbConvertApp] Writing 456 bytes to faq.md
+
+
 # Frequently Asked Questions
+
+
+```python
+faq.md
+```
 
 
 
@@ -54,3 +71,4 @@ Callisto Morns are inclusive events for designers, developers, and scientists wh
 Callisto Day can show you a world of ways to explore and communicate the topics that are important to you, starting with nothing more than a web browser or text editor. 
 
 
+<style>code {display: none;}</style>
