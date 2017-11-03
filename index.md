@@ -67,14 +67,27 @@ Atlanta Jupyter User Group Meeting are inclusive events for designers, developer
 * Teach math, science, or engineering.
 * Publish, present, or share their work with others.  
 * Interested in open source software even in the slightest.
-    
-### Why is there an Atlanta Jupyter User's Group
 
-Atlanta Jupyter User Group Meeting can present ways to explore and communicate the topics that are important to you, starting with nothing more than a web browser or text editor. 
+### Why are there fees?
+
+Community doesn't mature properly with free events.  An hot krispy kreme donuts aren't free.
+    
+### Why is there an Atlanta Jupyter User's Group?
+
+Jupyter is a diverse piece of software that supplies value in different domains and programming languages.  The Atlanta Jupyter User Group Meeting uses Jupyter as a medium to bring people together and blend ideas across the diverse tecnology space in the Atlanta Metro region.
+
+### Can I Use Reuse This Source?
+
+This source code is intended to be a Jupyter notebook specific means of organizing events. After the first event, there will be a first a release of the this tool; which will be used for the second event on Dec 16, 2017.
 
 
 
 ### Prior Events
 
 * [Jupyter Day Atlanta 2016](http://jupyterday-atlanta-2016.github.io)
-<style>.highlighter-rouge, code {display: none;}</style>
+<style>
+.highlighter-rouge, code {display: none;}
+.markdown-body h1:first-child {
+    display: none;
+}
+</style>
