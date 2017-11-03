@@ -1,7 +1,12 @@
 
-# [Atlanta Jupyter User Group Meeting]()
+# [Atlanta Jupyter User Group Meetings]()
 
-The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. The user group meetings are afforable events that host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
+The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. 
+
+
+![](https://avatars2.githubusercontent.com/u/33355442?s=200&v=4)
+
+The user group meetings are afforable events that host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -9,6 +14,19 @@ The __Atlanta Jupyter User Group__ is a local community of designers, developers
 - Art, music, and making
 - Journalism, law, and policy
 - Visualization, UI, and UX
+
+
+```python
+# Upcoming Events
+
+* Jupyter Users Group Meeting One
+```
+
+
+# Upcoming Events
+
+* Jupyter Users Group Meeting One
+
 
 ---
 
