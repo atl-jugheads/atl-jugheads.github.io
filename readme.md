@@ -1,7 +1,7 @@
 
 # [Atlanta Jupyter User Group Meeting]()
 
-The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
+The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. The user group meetings are afforable events that host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -70,15 +70,16 @@ Atlanta Jupyter User Group Meeting are inclusive events for designers, developer
 
 ### Why are there fees?
 
-Community doesn't mature properly with free events.  An hot krispy kreme donuts aren't free.
+Community doesn't mature properly with free events.  And hot krispy kreme donuts aren't free.
     
+
 ### Why is there an Atlanta Jupyter User's Group?
 
 Jupyter is a diverse piece of software that supplies value in different domains and programming languages.  The Atlanta Jupyter User Group Meeting uses Jupyter as a medium to bring people together and blend ideas across the diverse tecnology space in the Atlanta Metro region.
 
 ### Can I Use Reuse This Source?
 
-This source code is intended to be a Jupyter notebook specific means of organizing events. After the first event, there will be a first a release of the this tool; which will be used for the second event on Dec 16, 2017.
+This source code is intended to be a Jupyter notebook specific means of organizing events. After the first event, there will be a first a release of this tool; which will be used for the second event on Dec 16, 2017.
 
 
 
