@@ -1,7 +1,7 @@
 
 # [Atlanta Jupyter User Group Meeting]()
 
-Atlanta Jupyter User Group Meeting are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
+The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
