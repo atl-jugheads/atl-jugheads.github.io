@@ -1,7 +1,7 @@
 
-# Callisto Morns
+# [Atlanta Jupyter User Group Meeting]()
 
-Callisto Morns are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
+Atlanta Jupyter User Group Meeting are local Atlanta conferences orbiting the [Project Jupyter](http://jupyter.org/).  These extremely afforable events will host 40-50 Jupyter users from the nearby Atlanta Metro Area.  They will attract designers, developers, and scientists solving problems in applications that include:
 
 - Education and training
 - Public health, medicine, and bioinformatics
@@ -12,25 +12,25 @@ Callisto Morns are local Atlanta conferences orbiting the [Project Jupyter](http
 
 ---
 
+# News
+
 ## We are currently [accepting presentation proposals for November](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
-Currently we are preparing for the [**premiere Callisto Morn on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  We currently have a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform) out and encourage anyone to submit their work as long as Project Jupyter plays a role.
+Currently we are preparing for the [**premiere Atlanta Jupyter User Group Meeting on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  We currently have a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform) out and encourage anyone to submit their work as long as Project Jupyter plays a role.
 
----
-
-Be on the l👀k out for 🎟tickets🎟 in the next few weeks.
-
-## Staying in touch
+# Staying in touch
 
 [![Gitter chat](https://badges.gitter.im/callisto-one/Lobby.png)](https://gitter.im/callisto-one/Lobby)
 
-* Visit the the [Castillo Morns](https://callisto-morns.github.io/) site for updates.
+* Visit the the [Atlanta Jupyter User Group Meeting](https://callisto-morns.github.io/) site for updates.
 * [Ask questions!](https://github.com/callisto-morns/one/issues)
 * [Submit a talk.](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
 ---
 
-# Project Jupyter
+# About [Project Jupyter]()
+
+![](http://jupyter.org/assets/main-logo.svg)
 
 > "Open source, interactive data science and scientific computing across over 40 programming languages"
 > > jupyter.org
@@ -50,12 +50,6 @@ Project Jupyter is all about bringing today’s best open source software to any
     %reload_ext literacy
 
 
-    [NbConvertApp] Converting notebook index.ipynb to markdown
-    [NbConvertApp] Writing 3332 bytes to index.md
-    [NbConvertApp] Converting notebook faq.ipynb to markdown
-    [NbConvertApp] Writing 458 bytes to faq.md
-
-
 # Frequently Asked Questions
 
 
@@ -67,14 +61,16 @@ faq.md
 
 ### Should I Participate?
 
-Callisto Morns are inclusive events for designers, developers, and scientists who:
+Atlanta Jupyter User Group Meeting are inclusive events for designers, developers, and scientists who:
 
 * Work with data.
 * Teach math, science, or engineering.
 * Publish, present, or share their work with others.  
 * Interested in open source software even in the slightest.
     
-Callisto Day can present a world of ways to explore and communicate the topics that are important to you, starting with nothing more than a web browser or text editor. 
+### Why is there an Atlanta Jupyter User's Group
+
+Atlanta Jupyter User Group Meeting can present ways to explore and communicate the topics that are important to you, starting with nothing more than a web browser or text editor. 
 
 
 
