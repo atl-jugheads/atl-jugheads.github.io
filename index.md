@@ -14,7 +14,7 @@ The __Atlanta Jupyter User Group__ is a local community of designers, developers
 
 # News
 
-## We are currently [accepting presentation proposals for November](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
+## We can [accept one more proposal for November](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform)
 
 Currently we are preparing for the [**premiere Atlanta Jupyter User Group Meeting on November 11, 2017 at Georgia Tech Research Institute**](https://callisto-morns.github.io/one/) from 9am to 1pm.  We currently have a [Call for Participation](https://docs.google.com/forms/d/e/1FAIpQLSfY1c4y2vLE-q3VMBjOpvTi4pK5D6Q9KudNk25AsxQUjsT3eA/viewform) out and encourage anyone to submit their work as long as Project Jupyter plays a role.
 
