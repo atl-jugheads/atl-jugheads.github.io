@@ -1,8 +1,10 @@
 
+
 ![](https://avatars2.githubusercontent.com/u/33355442?s=200&v=4)
 
+<a href="https://twitter.com/jupyteratlanta?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @jupyteratlanta</a><script async src="https://platform.twitter.com/widgets.js" data-size="large" charset="utf-8"></script>
 
-# [Atlanta Jupyter User Group Meetings]()
+# [Atlanta Jupyter User Group](https://www.meetup.com/Atlanta-Jupyter-User-Group/)
 
 The __Atlanta Jupyter User Group__ is a local community of designers, developers and scientists using [Jupyter](http://jupyter.org/) notebooks. 
 
@@ -14,6 +16,7 @@ The user group meetings are afforable events that host 40-50 Jupyter users from 
 - Art, music, and making
 - Journalism, law, and policy
 - Visualization, UI, and UX
+
 
 # Upcoming Events
 
@@ -87,4 +90,10 @@ This source code is intended to be a Jupyter notebook specific means of organizi
     !jupyter nbconvert --to markdown faq.ipynb
     !jupyter nbconvert --to markdown --MarkdownExporter.exclude_input=True index.ipynb
     !cp index.md readme.md
+
+
+    [NbConvertApp] Converting notebook faq.ipynb to markdown
+    [NbConvertApp] Writing 1010 bytes to faq.md
+    [NbConvertApp] Converting notebook index.ipynb to markdown
+    [NbConvertApp] Writing 4295 bytes to index.md
 
